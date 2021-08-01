@@ -35,6 +35,17 @@
     - [X] 프로젝트에 필요한 의존성 추가.
     - [X] 프로젝트 버전 등 세부 설정
         - [X] properties 구성
-    
+
+#### Step2. 지하철역 관리 기능 구현
+1. 지하철역 관리 api 구현
+    - [X] Station Entity & Repository 구현
+    - [ ] Service & RestController 구현
+        + [ ] 한건 조회
+        + [ ] 전체 조회
+        + [ ] 등록
+        + [ ] 수정
+        + [ ] 삭제
+
+#### Step3. 기존 서비스에 Redis 적용
 
 #### * 상세내용 없데이트 예정
